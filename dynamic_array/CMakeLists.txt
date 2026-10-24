@@ -3,8 +3,6 @@ project(DynamicArray C)
 
 set(CMAKE_C_STANDARD 99)
 
-include_directories(DynamicArray/)
-
-file(GLOB_RECURSE SOURCES "DynamicArray/*.*" "main.c")
+file(GLOB SOURCES "*.c")
 
 add_executable(${PROJECT_NAME} ${SOURCES})
