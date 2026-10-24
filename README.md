@@ -1,2 +1,2 @@
 # code_learn
-git新手实验库
+git,python,c新手实验库
