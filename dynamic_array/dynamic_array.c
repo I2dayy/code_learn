@@ -1,6 +1,6 @@
 /**
  * @file dynamic_array.c
- * @author I2day
+ * @author I2dayy
  * @brief 动态数组
  * @date 2025-01-31
  */
