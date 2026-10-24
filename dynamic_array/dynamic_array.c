@@ -233,5 +233,6 @@ void dynamicArrayPrintln(const DynamicArray* dyn_arr, const char* name)
     else {
         printf("NULL");
     }
+    
     printf("\n");
 }
